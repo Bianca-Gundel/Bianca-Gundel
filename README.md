@@ -4,7 +4,6 @@
 
 ### About me
 My name is Bianca i'm from Germany and 31 years old. At some point in my life I wanted to code something and for all people who love coding is github the first place to be.
-I love to stream on twitch.tv 
 
 ### Experience 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
